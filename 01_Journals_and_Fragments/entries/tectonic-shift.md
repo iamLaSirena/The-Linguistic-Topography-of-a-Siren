@@ -1,4 +1,5 @@
-tectonic-shift.md
+01_Journals_and_Fragments/tectonic-shift.md
+
 ``)
 
 ---
