@@ -1,4 +1,4 @@
-# Mirror Spell for the Siren  
+mirror-spell-for-the-siren.md
 *A domestic altar of soft glamour, affirmation, and jasmine-saffron presence.*
 
 ## Location  
